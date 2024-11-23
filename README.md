@@ -11,3 +11,31 @@ The Real-Time Human Body Posture Analysis System is designed to provide an innov
 
 ## OUTPUT
 ![Screenshot 2024-11-13 093007](https://github.com/user-attachments/assets/3dbc762d-1a17-45fd-bfd2-1c16269bc87c)
+
+![Screenshot 2024-11-13 093021](https://github.com/user-attachments/assets/11dcf45a-d28a-4f02-8ee6-b2bbc553f512)
+
+## Results and Impact
+This project delivers significant results and impacts across multiple domains. By accurately detecting and analyzing body postures in real time, it enhances posture awareness and correction, enabling users to achieve better alignment during activities like fitness training, rehabilitation, and daily work. The system’s instant feedback mechanism ensures timely guidance, helping users avoid posture-related injuries and long-term musculoskeletal issues.
+ 
+The implementation of standard webcams and user-friendly interfaces makes the solution accessible to a wide audience, reducing the dependency on costly or specialized equipment. In fitness, it aids individuals in maintaining proper form during exercises, leading to more effective workouts. In physical therapy and rehabilitation, it supports therapists by automating posture assessment and providing real-time progress tracking. Additionally, in workplace ergonomics, the system promotes healthier work habits by alerting users to improper seating or standing postures, ultimately improving productivity and reducing work-related discomfort.
+
+Overall, the project contributes to health and wellness by addressing critical posture-related challenges, empowering users with automated, real-time assistance, and paving the way for further advancements in posture monitoring technology.
+
+## References
+[13]Gupta, P., Gupta, S., & Rajput, H. (2022)
+"Real-Time Human Posture Assessment Using MediaPipe Framework." 
+
+[14]Sapp, B., Toshev, A., & Taskar, B. (2010)
+"Cascaded Models for Articulated Pose Estimation." 
+
+[15]MediaPipe Documentation. (2023)
+"MediaPipe Framework for Real-Time Human Pose Detection."
+
+[16]Bazarevsky, V., Kartynnik, Y., Vakunov, A., et al. (2020)
+"BlazePose: On-device Real-time Body Pose Tracking."
+
+[17]Fang, H., Xu, Y., Wang, W., Liu, X., & Zhu, S. (2022) "AlphaPose: A Robust Real-Time Human Pose Estimator."
+IEEE Transactions on Image Processing,
+
+Sun, W., Shi, L., & Wang, X. (2023)
+"Posture Detection for Physical Therapy using 3D Pose Estimation Techniques."
