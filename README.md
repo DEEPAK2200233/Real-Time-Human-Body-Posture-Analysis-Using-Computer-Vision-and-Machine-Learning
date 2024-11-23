@@ -22,19 +22,19 @@ The implementation of standard webcams and user-friendly interfaces makes the so
 Overall, the project contributes to health and wellness by addressing critical posture-related challenges, empowering users with automated, real-time assistance, and paving the way for further advancements in posture monitoring technology.
 
 ## References
-[13]Gupta, P., Gupta, S., & Rajput, H. (2022)
+Gupta, P., Gupta, S., & Rajput, H. (2022)
 "Real-Time Human Posture Assessment Using MediaPipe Framework." 
 
-[14]Sapp, B., Toshev, A., & Taskar, B. (2010)
+Sapp, B., Toshev, A., & Taskar, B. (2010)
 "Cascaded Models for Articulated Pose Estimation." 
 
-[15]MediaPipe Documentation. (2023)
+MediaPipe Documentation. (2023)
 "MediaPipe Framework for Real-Time Human Pose Detection."
 
-[16]Bazarevsky, V., Kartynnik, Y., Vakunov, A., et al. (2020)
+Bazarevsky, V., Kartynnik, Y., Vakunov, A., et al. (2020)
 "BlazePose: On-device Real-time Body Pose Tracking."
 
-[17]Fang, H., Xu, Y., Wang, W., Liu, X., & Zhu, S. (2022) "AlphaPose: A Robust Real-Time Human Pose Estimator."
+Fang, H., Xu, Y., Wang, W., Liu, X., & Zhu, S. (2022) "AlphaPose: A Robust Real-Time Human Pose Estimator."
 IEEE Transactions on Image Processing,
 
 Sun, W., Shi, L., & Wang, X. (2023)
